@@ -1,0 +1,5 @@
+,success_before,success_before,zero_shot_success_after,zero_shot_success_after,adapted_success_after,adapted_success_after,zero_shot_adaptability,zero_shot_adaptability,adapted_adaptability,adapted_adaptability,episodes_to_recover,episodes_to_recover,path_diversity,path_diversity,number_of_flow_obstacles_added,number_of_flow_obstacles_added
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,,,,,,,
+Baseline Q-learning,100.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,1.0,0.0,38.583333333333336,17.13344405657216,1.4166666666666667,0.493830386256445,0.0,0.0
+Flow-guided Q-learning,100.0,0.0,95.0,21.830909938949894,100.0,0.0,0.95,0.21830909938949905,1.0,0.0,27.5,12.52088556176583,3.35,1.168496733151024,2.066666666666667,0.8551763820231021
